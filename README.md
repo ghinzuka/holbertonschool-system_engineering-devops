@@ -22,7 +22,7 @@ For this project, we expect you to look at these concepts:
 - [Monitoring](https://intranet.hbtn.io/concepts/805)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQNEW76KdYg" frameborder="0" allowfullscreen></iframe>
+[![How to Design Web Infrastructure](https://img.youtube.com/vi/lQNEW76KdYg/hqdefault.jpg)](https://youtu.be/lQNEW76KdYg)
 
 ## Resources
 
