@@ -14,30 +14,32 @@
 ## Concepts
 
 For this project, we expect you to look at these concepts:
-- Network Basics
-- Server
-- Web Server
-- DNS
-- Load Balancer
-- Monitoring
+- [Network Basics](https://intranet.hbtn.io/concepts/791)
+- [Server](https://intranet.hbtn.io/concepts/799)
+- [Web Server](https://intranet.hbtn.io/concepts/800)
+- [DNS](https://intranet.hbtn.io/concepts/803)
+- [Load Balancer](https://intranet.hbtn.io/concepts/804)
+- [Monitoring](https://intranet.hbtn.io/concepts/805)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQNEW76KdYg" title="web infrastructure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Resources
 
 Read or watch:
-- [Network Basics Concept Page](#)
-- [Server Concept Page](#)
-- [Web Server Concept Page](#)
-- [DNS Concept Page](#)
-- [Load Balancer Concept Page](#)
-- [Monitoring Concept Page](#)
-- [What is a Database](#)
-- [What’s the Difference Between a Web Server and an App Server?](#)
-- [DNS Record Types](#)
-- [Single Point of Failure](#)
-- [How to Avoid Downtime When Deploying New Code](#)
-- [High Availability Cluster (Active-Active/Active-Passive)](#)
-- [What is HTTPS](#)
-- [What is a Firewall](#)
+- Network Basics Concept Page
+- Server Concept Page
+- Web Server Concept Page
+- DNS Concept Page
+- Load Balancer Concept Page
+- Monitoring Concept Page
+- [What is a Database](https://intranet.hbtn.io/rltoken/7Pp0_Mdit6r_ZdRGKAwcqw)
+- [What’s the Difference Between a Web Server and an App Server?](https://intranet.hbtn.io/rltoken/YqKvabbDDtSjnHMV9g1gHw)
+- [DNS Record Types](https://intranet.hbtn.io/rltoken/q7HPrY0f14w8OUsbgNVBpQ)
+- [Single Point of Failure](https://intranet.hbtn.io/rltoken/56OIJ23o5mqSaSeLEwxzJg)
+- [How to Avoid Downtime When Deploying New Code](https://intranet.hbtn.io/rltoken/lxwkY5pRIVzatMPXwx6yew)
+- [High Availability Cluster (Active-Active/Active-Passive)](https://intranet.hbtn.io/rltoken/rITwKN4AKP1hXZl2FKcAcw)
+- [What is HTTPS](https://intranet.hbtn.io/rltoken/iEaO7X54UemiSN9z8TtFVA)
+- [What is a Firewall](https://intranet.hbtn.io/rltoken/P2A36USOkcekiqHsCzTefQ)
 
 ## Learning Objectives
 
