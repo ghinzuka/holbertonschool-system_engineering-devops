@@ -8,7 +8,7 @@
 **Weight**: 0  
 
 **Migrated to Checker v2**: Manual QA review must be done (request it when you are done with the project)
-https://www.youtube.com/watch?v=lQNEW76KdYg&embeds_referring_euri=https%3A%2F%2Fintranet.hbtn.io%2F
+
 
 
 ## Concepts
@@ -21,7 +21,8 @@ For this project, we expect you to look at these concepts:
 - [Load Balancer](https://intranet.hbtn.io/concepts/804)
 - [Monitoring](https://intranet.hbtn.io/concepts/805)
 
-https://youtu.be/lQNEW76KdYg
+
+[![How to Design Web Infrastructure](https://img.youtube.com/vi/lQNEW76KdYg/hqdefault.jpg)](https://youtu.be/lQNEW76KdYg)
 
 ## Resources
 
