@@ -8,7 +8,7 @@
 **Weight**: 0  
 
 **Migrated to Checker v2**: Manual QA review must be done (request it when you are done with the project)
-
+https://www.youtube.com/watch?v=lQNEW76KdYg&embeds_referring_euri=https%3A%2F%2Fintranet.hbtn.io%2F
 
 
 ## Concepts
